@@ -1,6 +1,6 @@
+##### Hi I am from master ###
+
 this is java file
-
-
 data entered
 
 second time enterd
