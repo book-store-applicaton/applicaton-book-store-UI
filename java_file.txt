@@ -1,5 +1,10 @@
 ##### Hi I am from master ###
 
+<<<<<<< HEAD
+=======
+#### Hi I am updated developent" $$$$$$$$$$$4
+
+>>>>>>> development
 this is java file
 data entered
 
